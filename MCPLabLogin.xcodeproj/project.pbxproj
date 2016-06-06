@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A5AFF531D02B0C0004399F7 /* RegisterPageViewControlerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5AFF521D02B0C0004399F7 /* RegisterPageViewControlerViewController.swift */; };
+		4A78BB6E1D043FE000BA20A6 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A78BB6D1D043FE000BA20A6 /* LoginViewController.swift */; };
 		4AB430E11D01726E0018F8D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB430E01D01726E0018F8D4 /* AppDelegate.swift */; };
 		4AB430E31D01726E0018F8D4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB430E21D01726E0018F8D4 /* ViewController.swift */; };
 		4AB430E61D01726E0018F8D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AB430E41D01726E0018F8D4 /* Main.storyboard */; };
@@ -26,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4A5AFF521D02B0C0004399F7 /* RegisterPageViewControlerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterPageViewControlerViewController.swift; sourceTree = "<group>"; };
+		4A78BB6D1D043FE000BA20A6 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		4AB430DD1D01726E0018F8D4 /* MCPLabLogin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MCPLabLogin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AB430E01D01726E0018F8D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4AB430E21D01726E0018F8D4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -83,6 +87,8 @@
 				4AB430E71D01726E0018F8D4 /* Assets.xcassets */,
 				4AB430E91D01726E0018F8D4 /* LaunchScreen.storyboard */,
 				4AB430EC1D01726E0018F8D4 /* Info.plist */,
+				4A5AFF521D02B0C0004399F7 /* RegisterPageViewControlerViewController.swift */,
+				4A78BB6D1D043FE000BA20A6 /* LoginViewController.swift */,
 			);
 			path = MCPLabLogin;
 			sourceTree = "<group>";
@@ -199,6 +205,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A78BB6E1D043FE000BA20A6 /* LoginViewController.swift in Sources */,
+				4A5AFF531D02B0C0004399F7 /* RegisterPageViewControlerViewController.swift in Sources */,
 				4AB430E31D01726E0018F8D4 /* ViewController.swift in Sources */,
 				4AB430E11D01726E0018F8D4 /* AppDelegate.swift in Sources */,
 			);
@@ -392,6 +400,7 @@
 				4AB430FC1D01726E0018F8D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4AB430FD1D01726E0018F8D4 /* Build configuration list for PBXNativeTarget "MCPLabLoginTests" */ = {
 			isa = XCConfigurationList;
@@ -400,6 +409,7 @@
 				4AB430FF1D01726E0018F8D4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -2,7 +2,7 @@
 "0bn-7k-lQC.placeholder" = "Passwort";
 
 /* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "0mc-nt-CwD"; */
-"0mc-nt-CwD.normalTitle" = "Anmelden";
+"0mc-nt-CwD.normalTitle" = "ANMELDEN";
 
 /* Class = "UITextField"; placeholder = "Email"; ObjectID = "1J4-Ve-7xC"; */
 "1J4-Ve-7xC.placeholder" = "Email";
@@ -10,8 +10,14 @@
 /* Class = "UILabel"; text = "Label"; ObjectID = "1WG-32-QJv"; */
 "1WG-32-QJv.text" = "Label";
 
+/* Class = "UITextField"; placeholder = "Item Name"; ObjectID = "3Lf-O6-Nkj"; */
+"3Lf-O6-Nkj.placeholder" = "Name des Gegenstandes";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "5PA-p1-Irg"; */
+"5PA-p1-Irg.placeholder" = "Standort";
+
 /* Class = "UIButton"; normalTitle = "Register"; ObjectID = "5f9-0q-tk6"; */
-"5f9-0q-tk6.normalTitle" = "Melde dich an";
+"5f9-0q-tk6.normalTitle" = "Registrieren";
 
 /* Class = "UILabel"; text = "Age:"; ObjectID = "8CG-Z7-lDd"; */
 "8CG-Z7-lDd.text" = "Alter:";
@@ -24,9 +30,6 @@
 
 /* Class = "UILabel"; text = "0"; ObjectID = "52t-Rp-Ve7"; */
 "52t-Rp-Ve7.text" = "0";
-
-/* Class = "UILabel"; text = "Name of Item:"; ObjectID = "BPM-oy-Jfi"; */
-"BPM-oy-Jfi.text" = "Name des Gegenstandes:";
 
 /* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "BTH-rF-38c"; */
 "BTH-rF-38c.title" = "Zurück";
@@ -52,14 +55,14 @@
 /* Class = "UILabel"; text = "Add Product"; ObjectID = "Ijt-Yh-vfA"; */
 "Ijt-Yh-vfA.text" = "Artikel hinzufügen";
 
-/* Class = "UILabel"; text = "Product name:"; ObjectID = "IpC-qY-xsQ"; */
-"IpC-qY-xsQ.text" = "Name des Gegenstandes:";
-
 /* Class = "UITextField"; placeholder = "Password"; ObjectID = "Jgf-EX-0Qy"; */
 "Jgf-EX-0Qy.placeholder" = "Passwort";
 
 /* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "KUm-ok-HhY"; */
 "KUm-ok-HhY.title" = "Bearbeiten";
+
+/* Class = "UITextField"; placeholder = "Name of Item"; ObjectID = "LSF-XT-RcE"; */
+"LSF-XT-RcE.placeholder" = "Name des Gegenstandes";
 
 /* Class = "UILabel"; text = "Show Product"; ObjectID = "Lnd-90-vvl"; */
 "Lnd-90-vvl.text" = "Zeig den Artikel";
@@ -68,16 +71,16 @@
 "MSH-gj-Xt6.text" = "Kategorie:";
 
 /* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "MwB-zR-vgF"; */
-"MwB-zR-vgF.normalTitle" = "ANMELDEN";
+"MwB-zR-vgF.normalTitle" = "REGISTRIEREN";
 
 /* Class = "UITextField"; placeholder = "Repeat Password"; ObjectID = "N9t-ly-uBY"; */
-"N9t-ly-uBY.placeholder" = "Bestätige dein Passwort";
+"N9t-ly-uBY.placeholder" = "Bestätigen sie ihr Passwort";
 
 /* Class = "UINavigationItem"; title = "Title"; ObjectID = "Nya-NI-QAV"; */
 "Nya-NI-QAV.title" = "Titel";
 
-/* Class = "UILabel"; text = "Within the Distance:"; ObjectID = "OoB-1J-py2"; */
-"OoB-1J-py2.text" = "Innerhalb der Entfernung:";
+/* Class = "UILabel"; text = "Within the Distance"; ObjectID = "OoB-1J-py2"; */
+"OoB-1J-py2.text" = "Entfernung:";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "QKb-ee-odq"; */
 "QKb-ee-odq.text" = "Label";
@@ -101,7 +104,7 @@
 "USO-po-M2G.text" = "Label";
 
 /* Class = "UIButton"; normalTitle = "SUBMIT"; ObjectID = "V6g-pE-Kjl"; */
-"V6g-pE-Kjl.normalTitle" = "Einreichen";
+"V6g-pE-Kjl.normalTitle" = "EINREICHEN";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "VzL-F9-cdV"; */
 "VzL-F9-cdV.text" = "Label";
@@ -109,8 +112,8 @@
 /* Class = "UILabel"; text = "Label"; ObjectID = "WLK-T4-dJT"; */
 "WLK-T4-dJT.text" = "Label";
 
-/* Class = "UILabel"; text = "Other Information:"; ObjectID = "WfN-ZT-RSI"; */
-"WfN-ZT-RSI.text" = "Andere Informationen:";
+/* Class = "UITextField"; placeholder = "Other information"; ObjectID = "YRE-3i-VlY"; */
+"YRE-3i-VlY.placeholder" = "Andere Informationen";
 
 /* Class = "UILabel"; text = "Username:"; ObjectID = "ZGr-0T-ndo"; */
 "ZGr-0T-ndo.text" = "Benutzername:";
@@ -124,17 +127,20 @@
 /* Class = "UIButton"; normalTitle = "Search"; ObjectID = "c5M-5j-ff7"; */
 "c5M-5j-ff7.normalTitle" = "Suchen";
 
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "cHW-pf-IAG"; */
+"cHW-pf-IAG.placeholder" = "Menge";
+
 /* Class = "UILabel"; text = "Username:"; ObjectID = "eg3-OX-Kux"; */
 "eg3-OX-Kux.text" = "Benutzername:";
 
 /* Class = "UINavigationItem"; title = "Your profile"; ObjectID = "ext-N0-VF7"; */
-"ext-N0-VF7.title" = "Dein Profil";
+"ext-N0-VF7.title" = "Ihr Profil";
 
 /* Class = "UILabel"; text = "0"; ObjectID = "gF0-7c-3ZK"; */
 "gF0-7c-3ZK.text" = "0";
 
 /* Class = "UINavigationItem"; title = "Your profile"; ObjectID = "kb1-Uh-FDY"; */
-"kb1-Uh-FDY.title" = "Dein Profil";
+"kb1-Uh-FDY.title" = "Ihr Profil";
 
 /* Class = "UILabel"; text = "Label"; ObjectID = "maL-Ig-los"; */
 "maL-Ig-los.text" = "Label";
@@ -143,10 +149,10 @@
 "nok-Eb-uNe.placeholder" = "E-mail ";
 
 /* Class = "UINavigationItem"; title = "Your profile"; ObjectID = "ocO-nN-F7p"; */
-"ocO-nN-F7p.title" = "Dein Profil";
+"ocO-nN-F7p.title" = "Ihr Profil";
 
 /* Class = "UILabel"; text = "Don't have an account? Register"; ObjectID = "pvD-NJ-qcB"; */
-"pvD-NJ-qcB.text" = "Noch kein Profil? Melde dich an";
+"pvD-NJ-qcB.text" = "Noch kein Profil? Registrieren Sie sich";
 
 /* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "q6X-PK-yC3"; */
 "q6X-PK-yC3.title" = "Artikel";
@@ -159,12 +165,6 @@
 
 /* Class = "UILabel"; text = "0"; ObjectID = "sCI-Sd-YUl"; */
 "sCI-Sd-YUl.text" = "0";
-
-/* Class = "UILabel"; text = "Amount:"; ObjectID = "sY1-eq-LoW"; */
-"sY1-eq-LoW.text" = "Menge:";
-
-/* Class = "UILabel"; text = "Location:"; ObjectID = "seQ-ph-BG6"; */
-"seQ-ph-BG6.text" = "Standort:";
 
 /* Class = "UILabel"; text = "Age:"; ObjectID = "uTh-0t-STu"; */
 "uTh-0t-STu.text" = "Alter:";

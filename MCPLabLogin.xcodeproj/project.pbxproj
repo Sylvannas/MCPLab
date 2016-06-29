@@ -7,14 +7,28 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A013B0B1D1AAD2900329AC8 /* Aachen.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 4A013B0A1D1AAD2900329AC8 /* Aachen.gpx */; };
+		4A07FE321D1165490095B5B4 /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4A07FE311D1165490095B5B4 /* SWRevealViewController.m */; };
+		4A07FE361D11A3E60095B5B4 /* ProductDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A07FE351D11A3E60095B5B4 /* ProductDetailsViewController.swift */; };
+		4A07FE381D11A8F20095B5B4 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A07FE371D11A8F20095B5B4 /* TableViewController.swift */; };
+		4A3D1DE21D17DAA500639225 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 4A3D1DE01D17DAA500639225 /* Model.xcdatamodeld */; };
+		4A3D1DE71D17E6C500639225 /* ProductInventory+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A3D1DE31D17E6C500639225 /* ProductInventory+CoreDataProperties.swift */; };
+		4A3D1DE81D17E6C500639225 /* ProductInventory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A3D1DE41D17E6C500639225 /* ProductInventory.swift */; };
+		4A3D1DE91D17E6C500639225 /* MCPLabUser+CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A3D1DE51D17E6C500639225 /* MCPLabUser+CoreDataProperties.swift */; };
+		4A3D1DEA1D17E6C500639225 /* MCPLabUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A3D1DE61D17E6C500639225 /* MCPLabUser.swift */; };
 		4A5AFF531D02B0C0004399F7 /* RegisterPageViewControlerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A5AFF521D02B0C0004399F7 /* RegisterPageViewControlerViewController.swift */; };
 		4A78BB6E1D043FE000BA20A6 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A78BB6D1D043FE000BA20A6 /* LoginViewController.swift */; };
+		4A90B2D51D1964CA0000A11F /* ShowProductListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A90B2D41D1964CA0000A11F /* ShowProductListViewController.swift */; };
+		4A90B2D71D1997E40000A11F /* SearchProductViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A90B2D61D1997E40000A11F /* SearchProductViewController.swift */; };
 		4AB430E11D01726E0018F8D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB430E01D01726E0018F8D4 /* AppDelegate.swift */; };
 		4AB430E31D01726E0018F8D4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB430E21D01726E0018F8D4 /* ViewController.swift */; };
 		4AB430E61D01726E0018F8D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AB430E41D01726E0018F8D4 /* Main.storyboard */; };
 		4AB430E81D01726E0018F8D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AB430E71D01726E0018F8D4 /* Assets.xcassets */; };
 		4AB430EB1D01726E0018F8D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AB430E91D01726E0018F8D4 /* LaunchScreen.storyboard */; };
 		4AB430F61D01726E0018F8D4 /* MCPLabLoginTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB430F51D01726E0018F8D4 /* MCPLabLoginTests.swift */; };
+		4AE3EF8B1D1EB07C005E5A71 /* Watford.gpx in Resources */ = {isa = PBXBuildFile; fileRef = 4AE3EF8A1D1EB07C005E5A71 /* Watford.gpx */; };
+		6472B7C41D23B270001AE2C6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6472B7C61D23B270001AE2C6 /* InfoPlist.strings */; };
+		6472B7C91D23B270001AE2C6 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6472B7CB1D23B270001AE2C6 /* InfoPlist.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,8 +42,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4A013B0A1D1AAD2900329AC8 /* Aachen.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Aachen.gpx; sourceTree = "<group>"; };
+		4A07FE2F1D1165480095B5B4 /* MCPLabLogin-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MCPLabLogin-Bridging-Header.h"; sourceTree = "<group>"; };
+		4A07FE301D1165490095B5B4 /* SWRevealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SWRevealViewController.h; sourceTree = "<group>"; };
+		4A07FE311D1165490095B5B4 /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
+		4A07FE351D11A3E60095B5B4 /* ProductDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductDetailsViewController.swift; sourceTree = "<group>"; };
+		4A07FE371D11A8F20095B5B4 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		4A3D1DE11D17DAA500639225 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
+		4A3D1DE31D17E6C500639225 /* ProductInventory+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ProductInventory+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		4A3D1DE41D17E6C500639225 /* ProductInventory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductInventory.swift; sourceTree = "<group>"; };
+		4A3D1DE51D17E6C500639225 /* MCPLabUser+CoreDataProperties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "MCPLabUser+CoreDataProperties.swift"; sourceTree = "<group>"; };
+		4A3D1DE61D17E6C500639225 /* MCPLabUser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MCPLabUser.swift; sourceTree = "<group>"; };
 		4A5AFF521D02B0C0004399F7 /* RegisterPageViewControlerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RegisterPageViewControlerViewController.swift; sourceTree = "<group>"; };
 		4A78BB6D1D043FE000BA20A6 /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		4A90B2D41D1964CA0000A11F /* ShowProductListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShowProductListViewController.swift; sourceTree = "<group>"; };
+		4A90B2D61D1997E40000A11F /* SearchProductViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchProductViewController.swift; sourceTree = "<group>"; };
 		4AB430DD1D01726E0018F8D4 /* MCPLabLogin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MCPLabLogin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AB430E01D01726E0018F8D4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4AB430E21D01726E0018F8D4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +67,13 @@
 		4AB430F11D01726E0018F8D4 /* MCPLabLoginTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MCPLabLoginTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AB430F51D01726E0018F8D4 /* MCPLabLoginTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MCPLabLoginTests.swift; sourceTree = "<group>"; };
 		4AB430F71D01726E0018F8D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4AE3EF8A1D1EB07C005E5A71 /* Watford.gpx */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = Watford.gpx; sourceTree = "<group>"; };
+		6472B7BE1D23AB5E001AE2C6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Main.strings; sourceTree = "<group>"; };
+		6472B7BF1D23AB5E001AE2C6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		6472B7C01D23AB6B001AE2C6 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Main.strings; sourceTree = "<group>"; };
+		6472B7C11D23AB6B001AE2C6 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		6472B7C51D23B270001AE2C6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		6472B7CA1D23B270001AE2C6 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +94,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4A07FE2E1D11648B0095B5B4 /* SWRevealViewController */ = {
+			isa = PBXGroup;
+			children = (
+				4A07FE301D1165490095B5B4 /* SWRevealViewController.h */,
+				4A07FE311D1165490095B5B4 /* SWRevealViewController.m */,
+				4A07FE2F1D1165480095B5B4 /* MCPLabLogin-Bridging-Header.h */,
+			);
+			name = SWRevealViewController;
+			sourceTree = "<group>";
+		};
+		4A3D1DEB1D17E7BD00639225 /* Core Data */ = {
+			isa = PBXGroup;
+			children = (
+				4A3D1DE31D17E6C500639225 /* ProductInventory+CoreDataProperties.swift */,
+				4A3D1DE41D17E6C500639225 /* ProductInventory.swift */,
+				4A3D1DE51D17E6C500639225 /* MCPLabUser+CoreDataProperties.swift */,
+				4A3D1DE61D17E6C500639225 /* MCPLabUser.swift */,
+				4A3D1DE01D17DAA500639225 /* Model.xcdatamodeld */,
+			);
+			name = "Core Data";
+			sourceTree = "<group>";
+		};
 		4AB430D41D01726E0018F8D4 = {
 			isa = PBXGroup;
 			children = (
+				4A013B0A1D1AAD2900329AC8 /* Aachen.gpx */,
+				4AE3EF8A1D1EB07C005E5A71 /* Watford.gpx */,
+				4A90B2D61D1997E40000A11F /* SearchProductViewController.swift */,
+				4A90B2D41D1964CA0000A11F /* ShowProductListViewController.swift */,
+				4A07FE371D11A8F20095B5B4 /* TableViewController.swift */,
+				4A07FE351D11A3E60095B5B4 /* ProductDetailsViewController.swift */,
 				4AB430DF1D01726E0018F8D4 /* MCPLabLogin */,
 				4AB430F41D01726E0018F8D4 /* MCPLabLoginTests */,
 				4AB430DE1D01726E0018F8D4 /* Products */,
@@ -81,6 +143,9 @@
 		4AB430DF1D01726E0018F8D4 /* MCPLabLogin */ = {
 			isa = PBXGroup;
 			children = (
+				6472B7C61D23B270001AE2C6 /* InfoPlist.strings */,
+				4A3D1DEB1D17E7BD00639225 /* Core Data */,
+				4A07FE2E1D11648B0095B5B4 /* SWRevealViewController */,
 				4AB430E01D01726E0018F8D4 /* AppDelegate.swift */,
 				4AB430E21D01726E0018F8D4 /* ViewController.swift */,
 				4AB430E41D01726E0018F8D4 /* Main.storyboard */,
@@ -96,6 +161,7 @@
 		4AB430F41D01726E0018F8D4 /* MCPLabLoginTests */ = {
 			isa = PBXGroup;
 			children = (
+				6472B7CB1D23B270001AE2C6 /* InfoPlist.strings */,
 				4AB430F51D01726E0018F8D4 /* MCPLabLoginTests.swift */,
 				4AB430F71D01726E0018F8D4 /* Info.plist */,
 			);
@@ -186,8 +252,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				4AB430EB1D01726E0018F8D4 /* LaunchScreen.storyboard in Resources */,
+				6472B7C41D23B270001AE2C6 /* InfoPlist.strings in Resources */,
 				4AB430E81D01726E0018F8D4 /* Assets.xcassets in Resources */,
+				4AE3EF8B1D1EB07C005E5A71 /* Watford.gpx in Resources */,
 				4AB430E61D01726E0018F8D4 /* Main.storyboard in Resources */,
+				4A013B0B1D1AAD2900329AC8 /* Aachen.gpx in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -195,6 +264,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6472B7C91D23B270001AE2C6 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -206,8 +276,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A78BB6E1D043FE000BA20A6 /* LoginViewController.swift in Sources */,
+				4A3D1DEA1D17E6C500639225 /* MCPLabUser.swift in Sources */,
+				4A3D1DE71D17E6C500639225 /* ProductInventory+CoreDataProperties.swift in Sources */,
+				4A07FE381D11A8F20095B5B4 /* TableViewController.swift in Sources */,
+				4A3D1DE91D17E6C500639225 /* MCPLabUser+CoreDataProperties.swift in Sources */,
 				4A5AFF531D02B0C0004399F7 /* RegisterPageViewControlerViewController.swift in Sources */,
+				4A3D1DE81D17E6C500639225 /* ProductInventory.swift in Sources */,
+				4A90B2D51D1964CA0000A11F /* ShowProductListViewController.swift in Sources */,
+				4A3D1DE21D17DAA500639225 /* Model.xcdatamodeld in Sources */,
+				4A07FE321D1165490095B5B4 /* SWRevealViewController.m in Sources */,
+				4A07FE361D11A3E60095B5B4 /* ProductDetailsViewController.swift in Sources */,
 				4AB430E31D01726E0018F8D4 /* ViewController.swift in Sources */,
+				4A90B2D71D1997E40000A11F /* SearchProductViewController.swift in Sources */,
 				4AB430E11D01726E0018F8D4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -235,6 +315,8 @@
 			isa = PBXVariantGroup;
 			children = (
 				4AB430E51D01726E0018F8D4 /* Base */,
+				6472B7BE1D23AB5E001AE2C6 /* de */,
+				6472B7C01D23AB6B001AE2C6 /* ar */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -243,8 +325,26 @@
 			isa = PBXVariantGroup;
 			children = (
 				4AB430EA1D01726E0018F8D4 /* Base */,
+				6472B7BF1D23AB5E001AE2C6 /* de */,
+				6472B7C11D23AB6B001AE2C6 /* ar */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		6472B7C61D23B270001AE2C6 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6472B7C51D23B270001AE2C6 /* de */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		6472B7CB1D23B270001AE2C6 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6472B7CA1D23B270001AE2C6 /* de */,
+			);
+			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -339,10 +439,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = MCPLabLogin/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.IphoneMCPLab.MCPLabLogin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "MCPLabLogin/MCPLabLogin-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -350,10 +453,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = MCPLabLogin/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.example.IphoneMCPLab.MCPLabLogin;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "MCPLabLogin/MCPLabLogin-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -412,6 +517,19 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		4A3D1DE01D17DAA500639225 /* Model.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				4A3D1DE11D17DAA500639225 /* Model.xcdatamodel */,
+			);
+			currentVersion = 4A3D1DE11D17DAA500639225 /* Model.xcdatamodel */;
+			path = Model.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 4AB430D51D01726E0018F8D4 /* Project object */;
 }
